@@ -10,9 +10,13 @@ public class App
     {
 
     	
-     
-        System.out.println( "Hello India!" ); //comment_24
+ 
 
         System.out.println( "Welcome to java!"); 
+
+        System.out.println( "Hello India!" ); //comment_25
+
+       
+     
     }
 }
