@@ -1,8 +1,7 @@
 package com.myapp.MyApp1;
 
 /**
- * Hello world!
- *
+ * Hello world!      MASTER-02
  */
 public class App 
 {
