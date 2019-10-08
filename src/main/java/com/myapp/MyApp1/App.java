@@ -5,7 +5,7 @@ package com.myapp.MyApp1;
  * Hello world!
  *
  */
-public class App 
+public class App //jira-999
 {
     public static void main( String[] args )
     {
